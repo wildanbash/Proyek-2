@@ -1,6 +1,9 @@
 # --SISTEM INFORMASI MANAJEMEN MASJID--
-# 1.Rahmad Alfian Maskuri 
-# 2.Wildan Dawam Bash
-# 3.Septianda Reza Maulana
-# 4.Farradila Ayu Damayanti
-# 5.Minggar Putra Dhea Ramadhan
+
+## Team
+
+- Rahmad Alfian Maskuri
+- Wildan Dawam Bash
+- Septianda Reza Maulana
+- Farradila Ayu Damayanti
+- Minggar Putra Dhea Ramadhan
